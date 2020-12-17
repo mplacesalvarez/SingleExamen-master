@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="SingleExamen-master:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/SingleExamen_master_jar</output-path>
+    <root id="archive" name="SingleExamen-master.jar">
+      <element id="module-output" name="SingleExamen-master" />
+    </root>
+  </artifact>
+</component>
