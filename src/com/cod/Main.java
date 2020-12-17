@@ -12,7 +12,6 @@ public class Main {
         } else {
             System.out.println("Fallo");
         }
-        ;
     }
 
     public static boolean metodo1(String u) {
